@@ -1,5 +1,5 @@
 
-# 📚 Syllabus Summarizer
+# 📚 SylloGenie
 
 A simple Flask-based web application that allows users to upload their syllabus PDFs and generates a summarized version of the syllabus in PDF format.
 
